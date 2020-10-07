@@ -1,5 +1,5 @@
 {
-	"homepage": "http://yuribenjamin.github.io/my-app",
+	"homepage": "https://steveo9219.github.io/progressive-budget-app-stephen-G/",
 	"name": "budget-app",
 	"version": "1.0.0",
 	"description": "",
@@ -13,14 +13,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+		"url": "git+https://github.com/steveo9219/progressive-budget-app-stephen-G.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/coding-boot-camp/unit18hw/issues"
+		"url": "https://steveo9219.github.io/progressive-budget-app-stephen-G/"
 	},
-	"homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+	"homepage": "https://steveo9219.github.io/progressive-budget-app-stephen-G/",
 	"dependencies": {
 		"compression": "^1.7.4",
 		"express": "^4.17.1",
